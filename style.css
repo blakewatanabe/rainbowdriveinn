@@ -1,0 +1,76 @@
+li {
+  color: white;
+  padding-inline: 30px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  height: 550px;
+}
+
+.logo {
+  padding-left: 10px;
+  width: 300px;
+}
+
+#findLocButton {
+  background-color: orangered;
+  font-size: 12px;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border-color: white;
+}
+
+.playFair {
+  font-size: 56px;
+  font-family: 'Playfair Display',sans-serif;
+}
+
+.description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  color: gray;
+  padding: 20px
+}
+
+.centerScreen {
+  background: url("https://rainbowdrivein.com/wp-content/uploads/2020/03/Image-3-ORIGINAL-reduced.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 700px;
+  color: white;
+}
+
+.customText {
+  font-family: "Open Sans", sans-serif;
+}
+
+.first-white-background {
+  font-family: 'Playfair Display', sans-serif;
+  background-color: whitesmoke;
+  height: 500px;
+}
+
+.second-white-background {
+  font-family: 'Playfair Display', sans-serif;
+  background-color: whitesmoke;
+  height: 200px;
+}
+
+.menu-white-background {
+  font-family: 'Open Sans', sans-serif;
+  background-color: whitesmoke;
+  height: 1000px;
+}
+
+.food-background {
+  background: url('https://rainbowdrivein.com/wp-content/uploads/2019/04/IMG_1964-e1554671726929.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 300px;
+}
+
+.foodDescription {
+  color: gray;
+  font-size: 13px;
+}
